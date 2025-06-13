@@ -24,7 +24,7 @@
 
 ## 🚀 TECH STACK
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,mysql,sqlite,tensorflow,pytorch,scikit-learn,flask,streamlit,gradio,huggingface,docker,html,css,js,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,tensorflow,pytorch,scikit-learn,flask,streamlit,gradio,huggingface,docker,html,css,js,git&theme=dark" />
 </p>
 
 
