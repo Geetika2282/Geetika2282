@@ -1,82 +1,72 @@
-# Hi there! 👋 I'm Geetika!  
-🌟 **Transforming ideas into intelligent solutions**  
+<h1 align="center">⚡ GEETIKA KANWAR ⚡</h1>
+<h2 align="center">👩‍💻 AI ENGINEER | ✨ GENAI CREATOR | 🎙️ PODCAST HOST</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BRAIN-DATA+CREATIVITY-black?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/POWERED-BY%20GENAI-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MISSION-INNOVATE%20EVERYDAY-blueviolet?style=for-the-badge&logo=target" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Building+cool+things+with+GenAI.;Podcasting+the+future+of+tech.;Exploring+AI+one+project+at+a+time." />
+</p>
 
 ---
 
-## 🔍 About Me  
-- 🧠 Passionate about turning raw data into actionable insights.  
-- 🌐 Exploring advanced machine learning, NLP, and AI-driven solutions.  
-- 💡 Always curious about how data shapes decisions.  
+## 💫 WHO AM I?
+
+> 🎯 I **blend creativity and intelligence** to build next-gen AI & NLP projects.  
+> 🎙️ Host of **Tech with Geetika** — decoding GenAI trends in human words.  
+> 🧠 Obsessed with **turning patterns into predictions**, and predictions into *insightful solutions*.  
+> 🚀 Always learning. Always building.
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  
-### 💻 Tech Skills  
+## 🚀 TECH STACK
 
-<table>
-<tr>
-  <td>
-    
-####  Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-
-#### 📊 Data Science & Analytics  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-
-#### 📚 Libraries for Data Visualization  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C9A84?style=for-the-badge&logo=python&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
-
-#### 🤖 Machine Learning & AI  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)  
-![NLTK](https://img.shields.io/badge/NLTK-007ACC?style=for-the-badge&logo=python&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white)  
-
-#### 🌐 Web Tools & Frameworks  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Gradio](https://img.shields.io/badge/Gradio-FFDC80?style=for-the-badge&logo=gradio&logoColor=black)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-
-#### 🌟 Specialized Tools  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![Transformers](https://img.shields.io/badge/Transformers-FFBB00?style=for-the-badge&logo=huggingface&logoColor=white)  
-![DeepSpeech](https://img.shields.io/badge/DeepSpeech-FF6600?style=for-the-badge&logo=mozilla&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-
-#### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-
-  </td>
-  <td>
-    
-### 📈 My GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geetika2282&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geetika2282&layout=compact&theme=radical)  
-
-  </td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,mysql,sqlite,tensorflow,pytorch,scikit-learn,flask,streamlit,gradio,huggingface,docker,html,css,js,git&theme=dark" height="140" />
+</p>
 
 ---
 
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/geetika-kanwar-61a33b223)  
+## 🔮 CURRENTLY VIBING WITH
+
+- 🤖 **Generative AI**: building apps that *think*  
+- 🧬 **NLP & LLMs**: from spaCy to Transformers  
+- 📊 **Data Science**: insightful, visual, explainable  
+- 🎨 **Human-AI Interfaces**: Gradio, Streamlit, FastAPI  
+- 🎤 **Tech Podcasting**: simplifying AI, one byte at a time  
 
 ---
 
-_Turning patterns into predictions, and predictions into solutions._
+<h2 align="center">⚡ LET’S CONNECT ⚡</h2>
+
+<p align="center">
+  <a href="mailto:geetikakanwar2282@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Write%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/geetika-kanwar-61a33b223" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Talk-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Geetika2282" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Geetika2282&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geetika2282&theme=tokyonight&hide_border=false" width="500"/>
+</p>
+
+---
+
+<h3 align="center">⚠️ FOLLOW FOR A BOOST OF AI + CREATIVITY ⚠️</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="800" />
+</p>
