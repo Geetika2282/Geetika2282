@@ -64,9 +64,3 @@
 </p>
 
 ---
-
-<h3 align="center">⚠️ FOLLOW FOR A BOOST OF AI + CREATIVITY ⚠️</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="800" />
-</p>
