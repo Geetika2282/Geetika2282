@@ -1,66 +1,64 @@
-<h1 align="center">⚡ GEETIKA KANWAR ⚡</h1>
-<h2 align="center">👩‍💻 AI ENGINEER | ✨ GENAI CREATOR | 🎙️ PODCAST HOST</h2>
+<h1 align="center">GEETIKA KANWAR</h1>
+<h3 align="center">AI Engineer • GenAI Developer • Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BRAIN-DATA+CREATIVITY-black?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/POWERED-BY%20GENAI-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MISSION-INNOVATE%20EVERYDAY-blueviolet?style=for-the-badge&logo=target" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Building+cool+things+with+GenAI.;Podcasting+the+future+of+tech.;Exploring+AI+one+project+at+a+time." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+with+LLMs+and+AI+Agents.;RAG+%7C+Agentic+AI+%7C+NLP.;Creating+real-world+GenAI+projects." />
 </p>
 
 ---
 
-## 💫 WHO AM I?
+## About Me
 
-> 🎯 I **blend creativity and intelligence** to build next-gen AI & NLP projects.  
-> 🎙️ Host of **Tech with Geetika** — decoding GenAI trends in human words.  
-> 🧠 Obsessed with **turning patterns into predictions**, and predictions into *insightful solutions*.  
-> 🚀 Always learning. Always building.
+- Building GenAI applications using LLMs and AI agents  
+- Exploring RAG, Agentic RAG, NLP, and local LLM workflows  
+- Interested in intelligent systems, automation, and AI products  
+- Learning by building real-world AI projects  
 
 ---
 
-## 🚀 TECH STACK
+## Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,mysql,tensorflow,pytorch,scikit-learn,flask,streamlit,gradio,huggingface,docker,html,css,js,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,tensorflow,pytorch,sklearn,fastapi,flask,streamlit,gradio,docker,git&theme=dark" />
 </p>
 
+### GenAI & AI Tools
+
+- LangChain
+- LangGraph
+- FAISS
+- Ollama
+- Hugging Face
+- Transformers
+- RAG Pipelines
+- AI Agents
+- Agentic RAG
+- Vector Databases
+- Prompt Engineering
 
 ---
 
-## 🔮 CURRENTLY VIBING WITH
-
-- 🤖 **Generative AI**: building apps that *think*  
-- 🧬 **NLP & LLMs**: from spaCy to Transformers  
-- 📊 **Data Science**: insightful, visual, explainable  
-- 🎨 **Human-AI Interfaces**: Gradio, Streamlit, FastAPI  
-- 🎤 **Tech Podcasting**: simplifying AI, one byte at a time  
-
----
-
-<h2 align="center">⚡ LET’S CONNECT ⚡</h2>
+## Connect
 
 <p align="center">
   <a href="mailto:geetikakanwar2282@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Write%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/geetika-kanwar-61a33b223" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Talk-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/geetika-kanwar-61a33b223">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Geetika2282" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://github.com/Geetika2282">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 GITHUB STATS
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geetika2282&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" width="500"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geetika2282&theme=tokyonight&hide_border=false" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Geetika2282&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geetika2282&theme=tokyonight" width="48%" />
 </p>
-
----
